@@ -1,0 +1,14 @@
+C:\Users\ExtremePACS\source\repos\wsserver\wsclient\bin\Debug\netcoreapp3.1\wsclient.exe
+C:\Users\ExtremePACS\source\repos\wsserver\wsclient\bin\Debug\netcoreapp3.1\wsclient.deps.json
+C:\Users\ExtremePACS\source\repos\wsserver\wsclient\bin\Debug\netcoreapp3.1\wsclient.runtimeconfig.json
+C:\Users\ExtremePACS\source\repos\wsserver\wsclient\bin\Debug\netcoreapp3.1\wsclient.runtimeconfig.dev.json
+C:\Users\ExtremePACS\source\repos\wsserver\wsclient\bin\Debug\netcoreapp3.1\wsclient.dll
+C:\Users\ExtremePACS\source\repos\wsserver\wsclient\bin\Debug\netcoreapp3.1\wsclient.pdb
+C:\Users\ExtremePACS\source\repos\wsserver\wsclient\obj\Debug\netcoreapp3.1\wsclient.csproj.AssemblyReference.cache
+C:\Users\ExtremePACS\source\repos\wsserver\wsclient\obj\Debug\netcoreapp3.1\wsclient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ExtremePACS\source\repos\wsserver\wsclient\obj\Debug\netcoreapp3.1\wsclient.AssemblyInfoInputs.cache
+C:\Users\ExtremePACS\source\repos\wsserver\wsclient\obj\Debug\netcoreapp3.1\wsclient.AssemblyInfo.cs
+C:\Users\ExtremePACS\source\repos\wsserver\wsclient\obj\Debug\netcoreapp3.1\wsclient.csproj.CoreCompileInputs.cache
+C:\Users\ExtremePACS\source\repos\wsserver\wsclient\obj\Debug\netcoreapp3.1\wsclient.dll
+C:\Users\ExtremePACS\source\repos\wsserver\wsclient\obj\Debug\netcoreapp3.1\wsclient.pdb
+C:\Users\ExtremePACS\source\repos\wsserver\wsclient\obj\Debug\netcoreapp3.1\wsclient.genruntimeconfig.cache
